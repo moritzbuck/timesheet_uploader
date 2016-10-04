@@ -1,0 +1,41 @@
+ID	key	hours	week	year	activity	notes	uploaded
+1	bettina	8	21	2016	Support	Ran previously developped pipeline on her data	TRUE
+2	bettina	2	30	2016	Design	Meeting about the data	TRUE
+3	bettina	2	31	2016	Support	Wrote design document as well as prepared learning material for the student	TRUE
+4	admin	2	22	2016	None	emails to people	TRUE
+5	admin	5	23	2016	None	Reinstalling all the stuff on my new PC	TRUE
+6	admin	6	24	2016	None	planning USA trip	TRUE
+7	dev	3	25	2016	None	Installing and testing BUSCO	TRUE
+8	dev	8	26	2016	None	refactoring my comparative genomics library	TRUE
+9	sarahi	8	26	2016	Support	Making some plots for the ISME talk	TRUE
+10	local	1	25	2016	None	Helped Martin	TRUE
+11	KAW	24	21	2016	Support	First sampling exp A	TRUE
+12	KAW	16	22	2016	Support	Second sampling exp A	TRUE
+13	KAW	16	23	2016	Support	Third sampling exp A	TRUE
+14	KAW	16	24	2016	Support	Fourth sampling exp A	TRUE
+15	KAW	24	25	2016	Support	Final sampling exp A	TRUE
+16	KAW	24	27	2016	Support	First sampling exp B	TRUE
+17	KAW	16	28	2016	Support	Second sampling exp B	TRUE
+18	sari	40	32	2016	Support	Makeing trees and cores for ISME presentation	TRUE
+19	sari	40	33	2016	Support	Makeing trees and cores for ISME presentation	TRUE
+20	outreach	20	34	2016	None	talk at ISME conference	TRUE
+21	training	20	34	2016	None	ISME conference	TRUE
+22	outreach	20	35	2016	None	talk at Madison Wisconsin	TRUE
+23	training	20	35	2016	None	Visit at Madison Wisconsin	TRUE
+24	outreach	20	36	2016	None	talk at UC Davis	TRUE
+25	training	20	36	2016	None	Visit at UC Davis	TRUE
+26	training	40	37	2016	None	Visit at JCVI San Diego	TRUE
+27	training	40	38	2016	None	UCLA Lake Arrowhead Microbial Genomics meeting	TRUE
+28	admin	8	39	2016	None	Retreat	TRUE
+29	gone	8	39	2016	None	Veterinary emergency	TRUE
+30	admin	1	39	2016	None	Meeting Stefan	TRUE
+31	dev	12	39	2016	None	trying out and testing MASH	TRUE
+32	admin	1	39	2016	None	Meeting Henrik	TRUE
+33	admin	1	39	2016	None	Meeting Lucille	TRUE
+34	dev	8	39	2016	None	Writting a time logger script	TRUE
+35	droso	1	39	2016	None	Skype meeting	TRUE
+36	dev	2	39	2016	None	testing oligotyping	TRUE
+37	admin	1	40	2016	None	Monday seminar at limno	TRUE
+38	KAW	2	40	2016	Support	PFAM table	TRUE
+39	andrea	3	40	2016	Support	redo the tree for vidy	TRUE
+40	dev	4	40	2016	None	continuing the time logger script	TRUE
